@@ -13,55 +13,17 @@
 - Untuk menggunakan bot ini, kamu diwajibkan mengisi ApiKey terlebih dahulu. Jika tidak mengisinya, bot tidak akan berfungsi dengan baik.
 - Tidak disarankan menginstal bot ini di termux atau panel yang tidak mempunyai kelengkapan express, ffmpeg, imagemagick, webp.
   
-- Menggunakan 60% fitur dari [`RestApi`](https://api.botcahx.eu.org) sebagai media downloader
+- Menggunakan 60% fitur dari [`RestApi`](https://pitucode.com) sebagai media downloader
 
 
 **Apikey :**
-- [✓] Free ApiKey 15 Request (/day)
-- [✓] Premium ApiKey 5000 Request (for 1 month)
-- Jika ingin membeli ApiKey Premium silahkan register lalu pilih paket yang di inginkan [`Pilih`](https://api.botcahx.eu.org/price)
+- [✓] Free ApiKey 50 Request (/day)
+- [✓] Premium ApiKey Unlimited Request (for 1 month)
 
-**Website Api :**
-- BOTCAHX [`Register`](https://api.botcahx.eu.org)
-- Lann [`Register`](https://api.betabotz.eu.org)
-- Setelah mendapatkan apikey silahkan paste di config.js pada bagian ```global.btc``` dan ```global.lann```
-
-
-## Group Bot
-- Group Bot [`Join`](https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi)
-- Group Bebas [`Join`](https://chat.whatsapp.com/KrxlrTjuZ1o3gbL4fyXTnL)
-## Support
-
-<a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
-
-
-### `Render`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBOTCAHX%2FRTXZY-MD)
-## Base Ori
-Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
-
-## Run On Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
-# Heroku Buildpack
-### Instal Buildpack
-```bash
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
-
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/pitucode/Bot-Whatsapp-v2
+cd Bot-Whatsapp-v2
 npm i
 npm start
 ```
