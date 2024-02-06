@@ -17,7 +17,7 @@ global.ppthumb = 'https://telegra.ph/file/16acf2c8b946324cfaeae.jpg'
 global.channelwa = 'https://whatsapp.com/channel/0029VaID06dEgGfE1gYriX2Y'
 
 //INI WAJIB DI ISI!//
-global.btc = 'wanzet' 
+global.btc = '' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OP7botNAL BOLEH DI ISI BOLEH JUGA ENGGA//
