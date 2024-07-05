@@ -1,8 +1,8 @@
-global.owner = ['6287737771400', '62859106872944']  
-global.mods = ['6287737771400'] 
-global.prems = ['6287737771400']
+global.owner = ['6288221569310', '62881080256055']  
+global.mods = ['6285860357430'] 
+global.prems = ['6288221569310']
 global.nameowner = '7bot'
-global.numberowner = '62859106872944' 
+global.numberowner = '6288221569310' 
 global.mail = 'support@pitucode.com' 
 global.gc = 'https://chat.whatsapp.com/'
 global.instagram = 'https://instagram.com/pitucode'
@@ -17,7 +17,7 @@ global.ppthumb = 'https://telegra.ph/file/16acf2c8b946324cfaeae.jpg'
 global.channelwa = 'https://whatsapp.com/channel/0029VaID06dEgGfE1gYriX2Y'
 
 //INI WAJIB DI ISI!//
-global.btc = '' 
+global.btc = 'xkECpHx3' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OP7botNAL BOLEH DI ISI BOLEH JUGA ENGGA//
