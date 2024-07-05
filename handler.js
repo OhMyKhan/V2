@@ -723,7 +723,7 @@ module.exports = {
                             title: action === 'add' ? 'Selamat Datang' : 'Selamat tinggal',
                             body: global.wm,
                             thumbnailUrl: pp,
-                            sourceUrl: 'https://pitucode.com',
+                            sourceUrl: 'https://telegra.ph/Made-By-K4HN-Hitam-07-05',
                             mediaType: 1,
                             renderLargerThumbnail: false 
                             }}}, { quoted: null})
